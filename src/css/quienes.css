@@ -1,0 +1,70 @@
+
+/* .carousel-inner img {
+  height: max-content; 
+
+}
+
+#carousel {
+  position: relative;
+}
+
+#cartel {
+  bottom: 40px;
+} */
+
+/* #carousel .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  z-index: 1;
+  font-size: 1.5rem;
+} */
+/* 
+#carousel .overlay .container,
+#carousel .overlay .row {
+  height: 100%;
+}
+
+#carousel .overlay button,
+#carousel .overlay a {
+  font-size: 1.5rem;
+} */
+
+.img{
+  border-color: blue;
+}
+
+.row {
+  background-color: black;
+  color: white;
+  font-size: 2rem;
+}
+
+#cartel p{
+  margin-top: 50px;
+  font-size: 2rem;
+  
+}
+
+
+@media (max-width: 768px) {
+  #carousel .overlay .container button {
+    text-align: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .container h1 {
+    text-align: center;
+  }
+}
+
+@media (max-width: 768px) {
+  #imagen img {
+    display: none;
+  }
+}

@@ -1,0 +1,128 @@
+
+
+div#root{
+  background-color: rgba(211, 210, 214, 0.527);
+}
+
+.background-curso {
+    background-color:red;
+    height: 100vh;
+    color: #1d3557;
+  }
+  
+  h2,
+  h3 {
+    color: #1d3557 !important;
+  }
+  
+  h4 {
+    color: #1d3557 !important;
+  }
+  
+  hr {
+    background-color: #1d3557 !important;
+  }
+  
+  .card {
+    color: #1d3557;
+    width: 250px;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 400px;
+  }
+  
+  .card-img-top {
+    height: 150px;
+  }
+  
+  #pildora {
+    font-size: 1.5rem;
+  }
+  
+  .card img {
+    object-fit: cover;
+  }
+  
+  .card span {
+    color: #1d3557;
+    font-size: 1.5rem;
+  }
+  
+  .card i {
+    font-size: 1.5rem;
+  }
+  
+  @media (max-width: 768px) {
+    #card {
+      display: flex;
+      justify-content: center;
+      font-size: 1rem;
+    }
+  }
+  
+  /* .avatar {
+      border-radius: 100%;
+      width: 30px;
+      border: 2px solid rgb(34, 155, 211);
+    } */
+  
+  /* ***************************************
+  
+  @media (min-width: 1024) {
+    #lugar-fecha img {
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+  
+  /* marquesina*/
+  
+  /* 
+  @media (max-width: 768px) {
+    #marque {
+      display: none;
+      
+    
+    }
+  } */
+  
+  /* @media (max-width: 768px) {
+    #incorporaciones {
+      display: none;
+      
+    
+    }
+  }
+  
+  
+  @media (max-width: 768px) {
+  #inlineFormCustomSelectPref { 
+    
+    
+    font-size: 0.75rem;
+     
+  
+  }
+  }
+  
+  @media (max-width: 360px) {
+    #inlineFormCustomSelectPref { 
+      
+      
+      font-size: 1.5rem;
+       
+    
+    }
+    }
+  
+  
+  @media (max-width: 768px) {
+  
+  
+    
+  #main .carousel-inner img {
+    height: 35rem;
+    object-fit: cover;
+    filter: grayscale(70%);
+  }  */
+  
